@@ -1,1 +1,1 @@
-# Airline_Fair_Prediction
+# Airline_Fare_Prediction
